@@ -22,7 +22,7 @@
 #define VENDOR_ID       0x3434
 // PRODUCT_ID is specified separately for ISO / ANSI models
 #define MANUFACTURER    Keychron
-#define PRODUCT         K8 RGB
+#define PRODUCT         Keychron K8
 
 #include "config_common.h"
 
